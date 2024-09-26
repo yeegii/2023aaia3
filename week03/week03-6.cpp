@@ -22,7 +22,7 @@ int main() {
     // 計算出現次數
     for (int b : a) {
         if (b == now)
-            ans++; 
+            ans++;
     }
 
     // 輸出結果
